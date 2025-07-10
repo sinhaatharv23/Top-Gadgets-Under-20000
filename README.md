@@ -80,7 +80,10 @@ Visit `http://127.0.0.1:5000/` in your browser to explore.
 - 📊 Ratings & reviews feature  
 
 ---
+## 🌐 Live Demo
 
+[Click here to view the deployed app on Render](https://top-gadgets-under-20000.onrender.com)
+---
 ## 📄 License
 
 This project is open source and free to use for educational purposes.
